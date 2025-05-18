@@ -2,7 +2,7 @@
 
 ![Power BI Screenshot](images/dashboard-preview.png) <!-- optional, add real screenshot -->
 
-<img src="">
+<img src="Dashboard Screenshot.png">
 
 ## 📊 Overview
 
