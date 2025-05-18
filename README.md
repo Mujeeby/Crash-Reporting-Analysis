@@ -1,8 +1,8 @@
 # Crash Reporting Data Analysis – Capstone Project
 
-![Power BI Screenshot](images/dashboard-preview.png) <!-- optional, add real screenshot -->
 
-<img src="Dashboard Screenshot.png">
+
+[Dashboard Screenshot] <img src="Dashboard Screenshot.png">
 
 ## 📊 Overview
 
