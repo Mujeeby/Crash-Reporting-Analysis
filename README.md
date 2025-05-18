@@ -39,7 +39,3 @@ This capstone project, completed in collaboration with a 3-member team at SAIT, 
 - Discovered clear weather and fall months show unexpectedly high crash rates.
 - Created a predictive model using Random Forest to forecast potential collision spikes.
 - Suggested actionable policies for DUI enforcement, distracted driving, and targeted infrastructure upgrades.
-
-## Conclusion
-
-This project demonstrates how data can guide smarter public safety strategies. It reflects strong technical skills across the full data analytics lifecycle — from cleaning and transformation to modeling and communication.
