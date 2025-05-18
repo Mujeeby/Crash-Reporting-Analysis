@@ -23,6 +23,6 @@ This capstone project, completed in collaboration with a 3-member team at SAIT, 
 - **Excel** – Initial data exploration and cleaning
 
 ## Project Structure
-1. [**Project Presentation (Slide)**] ()
+1. [**Project Presentation (Slide)**](https://github.com/Mujeeby/Crash-Reporting-Analysis/blob/1a9ab78dda71a86a173bba86b16d5bb0e442f367/DATA%20406%20-%20Capstone%20Project%20Final.pptx)
 2. [**Visualizations**] ()
 
