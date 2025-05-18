@@ -2,7 +2,7 @@
 
 
 
-[Dashboard Screenshot] <img src="Dashboard Screenshot.png">
+Dashboard Screenshot <img src="Dashboard Screenshot.png">
 
 ## 📊 Overview
 
